@@ -15,7 +15,7 @@ Existem duas formas de utilizar esta ferramenta, ambas listadas abaixo:
 ####  Metódo 1 (Fácil e Recomendado) - Arquivo executável
 Caso você não pretenda alterar o código fonte e apenas utilizar a ferramenta, este método é para você!
 
-1. Faça o download da última versão da ferramenta através da aba [Releases]()
+1. Faça o download da última versão da ferramenta através da aba [Releases](https://github.com/Luisovc1812/AI-Writer-Companion/releases), ela será um arquivo _**.zip**_
 2. Extraia o conteúdo zipado para sua pasta de preferência.
 3. Execute o arquivo _**AI Writer Companion.exe**_ e aproveite!
 
@@ -23,7 +23,7 @@ Caso você não pretenda alterar o código fonte e apenas utilizar a ferramenta,
 Caso você pretenda analisar ou modificar o código, use este método.
 
 1. Instale o Python através [deste link](https://www.python.org/downloads/). (Caso você já o tenha, pule esta etapa)
-2. Baixe este repositório através da opção de clonar do GitHub, ou simplesmente [clicando neste link]().
+2. Baixe este repositório através da opção de clonar do GitHub, ou simplesmente [clicando neste link](https://github.com/Luisovc1812/AI-Writer-Companion/archive/refs/heads/main.zip).
 3. Extraia o conteúdo do arquivo .ZIP em algum diretório da sua preferência.
 4. Nos arquivos extraidos, siga as etapas abaixo.
     * Quando você estiver iniciando o projeto pela **primeira vez**, você deve exectuar o arquivo _**"Instalar Requisitos Iniciais.bat"**_ para que as bibliotecas Python necessárias sejam instaladas do seu computador. Caso você prefira fazer isto manualmente, as bibliotecas são: "pillow", "customtkinter" e "google-generativeai".
