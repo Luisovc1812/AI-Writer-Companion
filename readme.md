@@ -1,5 +1,8 @@
 # AI Writer Companion
 
+> [!WARNING]
+> Este projeto foi descontinuado e não receberá novas atualizações. A ferramenta continuará a funcionar até que o API do Google AI Studio mude o suficiente para tornar o código atual obsoleto.<br>Obrigado pelo interesse e por ter utilizado o AI Writer Companion.
+
 <img src="media/banner/banner.png" alt="Banner do AI Writer Companion" width="500"/>
 
 ### ⓘ O que é?
